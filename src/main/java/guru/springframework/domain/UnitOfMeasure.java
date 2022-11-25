@@ -10,6 +10,7 @@ import javax.persistence.Id;
 /**
  * Created by jt on 6/13/17.
  */
+@Data
 @Entity
 @Data
 public class UnitOfMeasure {
