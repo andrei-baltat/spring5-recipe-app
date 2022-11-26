@@ -12,7 +12,6 @@ import javax.persistence.Id;
  */
 @Data
 @Entity
-@Data
 public class UnitOfMeasure {
 
     @Id
